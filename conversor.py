@@ -6,9 +6,9 @@ field_mapping = {
     "external_id": "dc.identifier.doi",  # Ajustar según tipo
     "url": "dc.identifier.uri",
     "type": "dc.type",
-    "publication_year": "dc.date.issued",  # Combinamos año, mes y día más adelante
-    "publication_month": "dc.date.issued",  # Combinamos año, mes y día más adelante
-    "publication_day": "dc.date.issued",  # Combinamos año, mes y día más adelante
+    "publication_year": "dc.date.issued",  
+    "publication_month": "dc.date.issued",  
+    "publication_day": "dc.date.issued",  
     "journal_title": "dc.relation.ispartof",
     "source_client_id": "dc.source"
 }

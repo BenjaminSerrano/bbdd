@@ -3,6 +3,7 @@ import pandas as pd
 # Cargar el archivo CSV
 input_file = 'output.csv'
 
+
 # Leer el archivo CSV
 data = pd.read_csv(input_file)
 
